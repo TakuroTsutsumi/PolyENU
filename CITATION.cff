@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use PolyENU in your research, please cite the following publication."
+title: "PolyENU"
+type: software
+
+authors:
+  - family-names: "Usuki"
+    given-names: "Gikyo"
+  - family-names: "Tsutsumi"
+    given-names: "Takuro"
+    orcid: "https://orcid.org/0000-0001-5086-1122"
+  - family-names: "Hasebe"
+    given-names: "Kohei"
+  - family-names: "Kobayashi"
+    given-names: "Masato"
+    orcid: "https://orcid.org/0000-0002-4001-3581"
+  - family-names: "Matsuoka"
+    given-names: "Keitaro"
+    orcid: "https://orcid.org/0000-0002-6213-1220"
+  - family-names: "Taketsugu"
+    given-names: "Tetsuya"
+    orcid: "https://orcid.org/0000-0002-1337-6694"
+  - family-names: "Sada"
+    given-names: "Kazuki"
+
+repository-code: "https://github.com/TakuroTsutsumi/PolyENU"
+license: "BSD-3-Clause"
+version: "1.0.0"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Usuki"
+      given-names: "Gikyo"
+    - family-names: "Tsutsumi"
+      given-names: "Takuro"
+    - family-names: "Hasebe"
+      given-names: "Kohei"
+    - family-names: "Kobayashi"
+      given-names: "Masato"
+    - family-names: "Matsuoka"
+      given-names: "Keitaro"
+    - family-names: "Taketsugu"
+      given-names: "Tetsuya"
+    - family-names: "Sada"
+      given-names: "Kazuki"
+  title: "TBA"
+  journal: "TBA"
+  year: TBA
+  doi: "TBA"
